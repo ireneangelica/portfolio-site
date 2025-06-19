@@ -38,7 +38,7 @@ export default function Portfolio() {
           {/* Bio */}
           <div className="space-y-6">
             <p className="text-gray-700 text-lg leading-relaxed">
-              I specialize in managing large-scale, multi-client projects at an outsourcing company, overseeing operations for 100–800+ workers across diverse client portfolios. <br></br>
+              I specialize in managing large-scale, multi-client projects at an outsourcing company, overseeing operations for 3000+ workers across diverse client portfolios. <br></br>
               Technology has always surprise me, and I'm excited to be part with technology.
             </p>
             <Button 
@@ -98,19 +98,19 @@ export default function Portfolio() {
                 id: 1,
                 title: "Astro",
                 image: "https://play-lh.googleusercontent.com/J-MCv2jtYCOXA9J5AsEsbhGxF0MVOFoUpWtClpx4_VM4dajDTIvWj5tylltQj7azsAMW=w720-h405-rw",
-                pdf: "/portfolio/TRIO_MALLOW.pdf"
+                pdf: "/portfolio/Astro.pdf"
               },
               {
                 id: 2,
                 title: "Sagala Cloud Kitchen",
                 image: "https://media.licdn.com/dms/image/v2/C560BAQHiPLjGoxJeoQ/company-logo_200_200/company-logo_200_200/0/1630671362999?e=2147483647&v=beta&t=g5yNo2MF3j5j5dV99UMqEjwlKc8fU2brmKDDWSW94NY",
-                pdf: "/portfolio/TRIO_MALLOW.pdf"
+                pdf: "/portfolio/Sagala.pdf"
               },
               {
                 id: 3,
                 title: "Uniqlo",
                 image: "https://www.neosohojakarta.com/upload/tenant/668e0c5367388_UNIQLO-Logo.jpg",
-                pdf: "/portfolio/TRIO_MALLOW.pdf"
+                pdf: "/portfolio/Uniqlo.pdf"
               },
               {
                 id: 4,
